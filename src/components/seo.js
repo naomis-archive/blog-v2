@@ -77,8 +77,8 @@ const Seo = ({ description, lang, meta, title }) => {
       ].concat(meta)}
     >
       <script
-        src="https://van-england.beccalia.com/script.js"
-        data-site="EBEPALSC"
+        src="https://keen-pens.nhcarrigan.com/script.js"
+        data-site="JBVIRCKU"
         defer
       ></script>
     </Helmet>

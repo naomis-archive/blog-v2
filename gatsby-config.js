@@ -5,7 +5,7 @@ module.exports = {
       name: `Naomi`,
       summary: `a developer building open source tools, community management bots on Discord, and more!`,
     },
-    description: `This blog contains development updates for the Beccalia series of games.`,
+    description: `This blog contains Naomi's random ramblings and thoughts.`,
     siteUrl: `https://blog.nhcarrigan.com/`,
     social: {
       twitter: `nhcarrigan`,
@@ -106,7 +106,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
-            title: "Beccalia Development Blog RSS Feed",
+            title: "Naomi's Blog RSS Feed",
           },
         ],
       },
