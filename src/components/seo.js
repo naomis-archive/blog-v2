@@ -72,7 +72,7 @@ const Seo = ({ description, lang, meta, title }) => {
         },
         {
           name: `og:image`,
-          content: `https://cdn.nhcarrigan.com/content/banners/nhcarrigan.png`,
+          content: `https://cdn.nhcarrigan.com/og-image.png`,
         },
       ].concat(meta)}
     >
