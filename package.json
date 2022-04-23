@@ -34,7 +34,10 @@
   },
   "devDependencies": {
     "gh-pages": "^3.2.3",
-    "prettier": "2.6.2"
+    "markdownlint": "^0.25.1",
+    "markdownlint-cli": "^0.31.1",
+    "prettier": "2.6.2",
+    "spellchecker-cli": "^4.10.0"
   },
   "homepage": "https://github.com/nhcarrigan/blog#readme",
   "keywords": [
@@ -50,10 +53,11 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "deploy": "gatsby build && gh-pages -d public",
+    "lint": "markdownlint ./content/**/*.md",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "start": "gatsby develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "test": "spellchecker --config './.spellcheckerrc.json'"
   }
 }

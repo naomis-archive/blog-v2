@@ -7,7 +7,7 @@ pinned: true
 
 Hey there! Welcome to my blog! I go back and forth a lot on whether or not I want a blog, so it's entirely possible that this ends up getting deleted... But for now, here it is!
 
-My goal with this blog is to post an update every weekend with general thoughts about how my week went. These thoughts will be some dev-related stuff, but probably mostly personal stuff. Honestly not sure yet - we'll see how this unfolds.
+My goal with this blog is to post an update every weekend with general thoughts about how my week went. These thoughts will be some development related stuff, but probably mostly personal stuff. Honestly not sure yet - we'll see how this unfolds.
 
 Anyway, for more real time updates (and more permanent sources), take a look at my socials below!
 
