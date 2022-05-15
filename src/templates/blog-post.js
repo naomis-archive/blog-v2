@@ -8,7 +8,6 @@ import Seo from "../components/seo"
 
 const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
-  console.log(post);
 
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
@@ -18,8 +17,6 @@ const BlogPostTemplate = ({ data, location }) => {
     identifier: post.id,
     title: post.frontmatter.title,
   }
-
-  console.log(disqusConfig);
 
   return (
     <Layout location={location} title={siteTitle}>
