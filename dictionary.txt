@@ -19,3 +19,5 @@ Sema
 HRT
 Rythm
 Lyria
+Vyom
+Krish
