@@ -13,7 +13,7 @@ const BlogPostTemplate = ({ data, location }) => {
   const { previous, next } = data
 
   const disqusConfig = {
-    url: `https://blog.nhcarrigan.com${location.pathname}`,
+    url: `https://blog.naomi.lgbt${location.pathname}`,
     identifier: post.id,
     title: post.frontmatter.title,
   }

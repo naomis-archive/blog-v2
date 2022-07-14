@@ -6,9 +6,9 @@ module.exports = {
       summary: `a developer building open source tools, community management bots on Discord, and more!`,
     },
     description: `This blog contains Naomi's random ramblings and thoughts.`,
-    siteUrl: `https://blog.nhcarrigan.com/`,
+    siteUrl: `https://blog.naomi.lgbt/`,
     social: {
-      twitter: `nhcarrigan`,
+      twitter: `naomi-lgbt`,
       discord: "https://chat.nhcarrigan.com",
     },
   },
