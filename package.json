@@ -38,7 +38,7 @@
     "markdownlint": "0.26.1",
     "markdownlint-cli": "0.32.1",
     "prettier": "2.7.1",
-    "spellchecker-cli": "6.0.1"
+    "spellchecker-cli": "6.0.2"
   },
   "homepage": "https://github.com/nhcarrigan/blog#readme",
   "keywords": [
