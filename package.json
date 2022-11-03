@@ -8,7 +8,7 @@
     "url": "https://github.com/nhcarrigan/blog/issues"
   },
   "dependencies": {
-    "gatsby": "4.24.6",
+    "gatsby": "4.24.7",
     "gatsby-plugin-disqus": "1.2.4",
     "gatsby-plugin-feed": "4.24.0",
     "gatsby-plugin-gatsby-cloud": "4.24.1",
